@@ -1,0 +1,1 @@
+The files are hosted on AWS s3 bucket using this url https://anabelemekene-scalagos.s3.us-east-1.amazonaws.com/scalag-anabel.html?
